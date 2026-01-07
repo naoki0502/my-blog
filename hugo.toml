@@ -1,4 +1,4 @@
-baseURL = 'https://bright-kataifi-ca0247.netlify.app/'
+baseURL = 'https://naoki-illust.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
