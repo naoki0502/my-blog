@@ -1,4 +1,4 @@
 baseURL = 'https://naoki-illust.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja-jp'
+title = 'なおきのイラスト0→1達成伴走ブログ'
 theme = 'ananke'
